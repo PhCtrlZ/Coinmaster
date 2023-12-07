@@ -1,5 +1,5 @@
 ###### Coinmaster 
-+This code has been created by Black Undo\n
++This code has been created by Black Undo //
 +Recode by:Phcltrz
 +Program PHP
 +You must install php in your device
